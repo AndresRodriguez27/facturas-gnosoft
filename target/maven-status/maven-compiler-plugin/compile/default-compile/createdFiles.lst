@@ -1,0 +1,11 @@
+util\Conexion.class
+Dao\Dao.class
+Fachada\Fachada.class
+Vo\ArticuloVo.class
+Mediador\Mediador.class
+Dao\ArticuloDao.class
+Vo\FacturaVo.class
+Dao\FacturaDao.class
+util\NewMain.class
+Dao\imp\ArticuloDao_imp.class
+Dao\imp\FacturaDao_Imp.class
